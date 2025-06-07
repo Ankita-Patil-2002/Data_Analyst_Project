@@ -68,6 +68,69 @@ https://github.com/Ankita-Patil-2002/Data_Analyst_Project/blob/main/Olist%20Ecom
 
 
 
+# 🛡️ Insurance Opportunity & Performance Analysis Dashboard
+
+An interactive Power BI dashboard designed to track sales performance, client engagement, revenue generation, and opportunity stages in an insurance business. This project helps identify areas of growth across cross-sell, renewal, and new business channels.
+
+---
+
+## 📝 Short Description
+
+This dashboard provides a strategic overview of insurance sales opportunities, account executive performance, revenue funnels, and product trends. It supports the sales and operations team in monitoring targets, optimizing meetings, and improving invoice conversion rates.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Power BI** – For creating interactive data visualizations  
+- **SQL** – Used to join, aggregate, and filter insurance records  
+- **Excel/CSV** – Raw data input source  
+- **DAX (Data Analysis Expressions)** – For creating calculated KPIs, funnel stages, and conditional measures  
+- **Power Query (M Language)** – For data transformation (ETL process)
+
+---
+
+## 🌟 Key Features & Highlights
+
+1. **Sales Channel Overview**
+   - **Cross Sell**: Target – 20M, Achievement – 13M, Invoice – 3M  
+   - **Renewal**: Target – 12M, Achievement – 19M, Invoice – 8M  
+   - **New Business**: Target – 3.5M, Achievement – 19.7M, Invoice – 0.6M
+
+2. **Opportunity Pipeline**
+   - Total Opportunities: **49**
+   - Open Opportunities: **44**
+   - **Stage Funnel by Revenue**:
+     - Qualify Opportunity: 5920K
+     - Negotiate: 899K
+     - Propose Solution: 60K
+
+3. **Account Executive Performance**
+   - Meetings conducted (Top: Abhinav – 7, Vinay – 5)  
+   - Invoice counts by type (Cross Sell, Renewal, New) for each executive
+
+4. **Product & Revenue Analysis**
+   - **Opportunity Product Distribution**: Employee Benefits, Fire, Liability, Marine, Engineering  
+   - **Open Opportunities Top 3**:
+     - Fire – 500K
+     - DB – Mega Policy – 400K
+     - EL – Group Mediclaim – 400K
+
+5. **Yearly Engagement**
+   - Meeting counts comparison across years (e.g., 2020 – 91%, 2019 – 8.82%)
+
+---
+
+## 📁 Dataset Source
+https://github.com/Ankita-Patil-2002/Data_Source
+
+---
+
+## 📸 Dashboard Preview
+
+
+
+
 
 
 
