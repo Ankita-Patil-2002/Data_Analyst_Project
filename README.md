@@ -68,6 +68,16 @@ https://github.com/Ankita-Patil-2002/Data_Analyst_Project/blob/main/Olist%20Ecom
 
 
 
+
+
+
+
+
+
+
+
+
+
 # 🛡️ Insurance Opportunity & Performance Analysis Dashboard
 
 An interactive Power BI dashboard designed to track sales performance, client engagement, revenue generation, and opportunity stages in an insurance business. This project helps identify areas of growth across cross-sell, renewal, and new business channels.
@@ -127,7 +137,7 @@ https://github.com/Ankita-Patil-2002/Data_Source
 ---
 
 ## 📸 Dashboard Preview
-
+https://github.com/Ankita-Patil-2002/Data_Analyst_Project/blob/main/Insurance%20Analysis.png
 
 
 
