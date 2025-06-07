@@ -14,7 +14,7 @@ This project helps stakeholders understand key business metrics such as sales pe
 
 - **Power BI** – For data visualization and dashboard development  
 - **SQL** – Used for querying and preparing structured data for analysis  
-- **Microsoft Excel / CSV** – For data loading and preliminary cleaning  
+- **Microsoft Excel** – For data loading and preliminary cleaning  
 - **DAX (Data Analysis Expressions)** – Used for custom KPIs and calculated fields  
 - **Power Query (M Language)** – Used for data transformation (ETL)
 
@@ -69,15 +69,6 @@ https://github.com/Ankita-Patil-2002/Data_Analyst_Project/blob/main/Olist%20Ecom
 
 
 
-
-
-
-
-
-
-
-
-
 # 🛡️ Insurance Opportunity & Performance Analysis Dashboard
 
 An interactive Power BI dashboard designed to track sales performance, client engagement, revenue generation, and opportunity stages in an insurance business. This project helps identify areas of growth across cross-sell, renewal, and new business channels.
@@ -94,7 +85,7 @@ This dashboard provides a strategic overview of insurance sales opportunities, a
 
 - **Power BI** – For creating interactive data visualizations  
 - **SQL** – Used to join, aggregate, and filter insurance records  
-- **Excel/CSV** – Raw data input source  
+- **Excel** –  For data loading and preliminary cleaning  
 - **DAX (Data Analysis Expressions)** – For creating calculated KPIs, funnel stages, and conditional measures  
 - **Power Query (M Language)** – For data transformation (ETL process)
 
