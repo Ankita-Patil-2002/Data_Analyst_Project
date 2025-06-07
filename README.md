@@ -60,7 +60,7 @@ This project helps stakeholders understand key business metrics such as sales pe
 ---
 
 ## 📸 Dashboard Preview
-
+https://github.com/Ankita-Patil-2002/Data_Analyst_Project/blob/main/Olist%20Ecommerce%20Analysis.png
 
 
 
