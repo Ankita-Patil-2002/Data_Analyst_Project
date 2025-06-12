@@ -60,7 +60,7 @@ https://github.com/Ankita-Patil-2002/Data_Source
 ---
 
 ## 📸 Dashboard Preview
-
+https://github.com/Ankita-Patil-2002/Data_Analyst_Project/blob/main/Olist%20store%20analysis.png
 
 
 
